@@ -8,9 +8,9 @@
 
 Junior Software Engineer at **Schneider Electric**, working on enterprise energy management systems in C#/.NET. Currently pursuing an MSc in Software Engineering at the University of Belgrade.
 
-- 🔧 Backend development, systems programming, full-stack web
-- 🎓 BSc Electrical Engineering · GPA 8.53/10
-- 🌍 Belgrade, Serbia
+-  Backend development, systems programming, full-stack web
+-  BSc Electrical Engineering · GPA 8.53/10
+-  Belgrade, Serbia
 
 #
 
